@@ -1,6 +1,13 @@
 # Fractol
 Fractal exploration program, with lots of additional effects.
 
+#### Features
++ Render different fractals: mandelbrot, julia, burning ship ...
++ Different color schemes
++ Different effects for fractals
++ multithreaded fractal renderer
++ zooming fractals
++ mooving fractals
 
 ![Image alt](https://github.com/dshpack/Fractol/blob/master/Images/Screen%20Shot%202020-03-05%20at%2010.55.58%20PM.png)
 ![Image alt](https://github.com/dshpack/Fractol/blob/master/Images/Screen%20Shot%202020-03-05%20at%2010.56.51%20PM.png)
